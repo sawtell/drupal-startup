@@ -21,7 +21,7 @@ and opinionated decisions are included to bootstrap a project with everything yo
 
 Start-up your `newproject` in the current directory using composer:
 
-`composer create-project --no-install -s dev sgrichards/drupal-startup newproject`
+`composer create-project --no-install -s dev sgrichards/drupal-startup:dev-develop newproject`
 
 ## Project structure
 
